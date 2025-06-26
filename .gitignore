@@ -1,1 +1,6 @@
 venv
+notebooks/mlruns
+
+# data
+data/raw/dataset_house.csv
+data/processed/cleaned_data.csv
